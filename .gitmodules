@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sdStaf"]
 	path = sdStaf
-	url = https://github.com/patauchi/sdstaf
+	url = https://github.com/cran/sdStaf
