@@ -5,6 +5,3 @@
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
-[submodule "sdStaf"]
-	path = sdStaf
-	url = https://github.com/cran/sdStaf
